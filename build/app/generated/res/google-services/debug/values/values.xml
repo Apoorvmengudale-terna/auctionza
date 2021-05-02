@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">56149385370-95fm387bq0la1b4spll6l1acdom1tf1c.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">56149385370</string>
+    <string name="google_api_key" translatable="false">AIzaSyChGF_MZsgWwLfJqqeOXj10xJC-iMlDeic</string>
+    <string name="google_app_id" translatable="false">1:56149385370:android:1fdc4efeb486172ce1bf23</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyChGF_MZsgWwLfJqqeOXj10xJC-iMlDeic</string>
+    <string name="google_storage_bucket" translatable="false">auctionza-40c15.appspot.com</string>
+    <string name="project_id" translatable="false">auctionza-40c15</string>
+</resources>
